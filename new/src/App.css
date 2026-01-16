@@ -263,6 +263,7 @@ justify-content: center; */
   height: 280px;
   /* background-color: yellow; */
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   background-color: var(--kbd-bg, #1b1e24);
   /* gap: 120px; */
