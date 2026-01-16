@@ -119,7 +119,7 @@ export default function Section3({ video }) {
 
       {/*------------------------------------------------------- fifth section start */}
 
-      <div className="second-section">
+      <div className="second-section fifth-section">
         <h1>
           Write components <br /> with code and markup
         </h1>
@@ -138,7 +138,7 @@ export default function Section3({ video }) {
       <div className="footer">
         <div className="footer-1">
           <h1>Meta Open Source</h1>
-          <p>Copyright</p>
+          <p>Copyright © Meta Platforms, Inc <br /> uwu?</p>
         </div>
         <div className="footer-2">
           <h1>Learn React</h1>
